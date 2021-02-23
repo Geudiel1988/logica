@@ -1,0 +1,7 @@
+real c, f
+inicio
+escriba "digite la temperatura a convertir: "
+lea c
+f <- (c * (9 / 5 ) + 32 )
+escriba "la temperatura en farenheit es: ", f
+fin

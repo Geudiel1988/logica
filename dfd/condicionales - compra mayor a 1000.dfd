@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+13
+compraInicial
+1
+0
+4
+1
+41
+'cual es el valor inicial de la compra: '
+5
+1
+13
+compraInicial
+7
+0
+1
+20
+compraInicial > 1000
+4
+1
+47
+'el precio total a pagar es de: ',compraInicial
+13
+6
+2
+9
+descuento
+27
+(compraInicial * 20 ) / 100
+11
+precioFinal
+25
+compraInicial - descuento
+4
+1
+63
+'el total a pagar con un descuento del 20% es de: ',precioFinal
+13
+1

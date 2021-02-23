@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+3
+0
+0
+6
+2
+4
+base
+1
+0
+6
+altura
+1
+0
+4
+1
+18
+'Digita la base: '
+5
+1
+4
+base
+4
+1
+20
+'Digite la altura: '
+5
+1
+6
+altura
+12
+1
+4
+area
+1
+12
+base, altura
+12
+1
+9
+perimetro
+1
+12
+base, altura
+1
+2
+1
+4
+area
+1
+12
+base, altura
+0
+6
+1
+4
+area
+13
+base * altura
+4
+1
+102
+'El area del rectangulo con una base de: ',base,' y una altura de: ',altura,' tiene un area de: ',area
+3
+2
+1
+9
+perimetro
+1
+12
+base, altura
+0
+6
+1
+9
+perimetro
+21
+base * 2 + altura * 2
+4
+1
+117
+'El perimetro del rectangulo con una base de: ',base,' y una altura de: ',altura,' tiene un perimetro de: ',perimetro
+3

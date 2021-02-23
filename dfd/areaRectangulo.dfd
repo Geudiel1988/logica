@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+15
+'digite altura'
+5
+1
+6
+altura
+4
+1
+13
+'digite base'
+5
+1
+4
+base
+6
+1
+4
+area
+13
+base * altura
+4
+1
+32
+'el area del rectangulo: ', area
+1

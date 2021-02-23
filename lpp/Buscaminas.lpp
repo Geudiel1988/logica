@@ -1,0 +1,26 @@
+/*Programa para implementar el juego del buscaminas*/
+
+entero num, i
+arreglo minas[11,11]
+
+inicio
+	para i<-1 hasta 11 haga
+		minas[1,i]=-2
+		minas[i,1]=-2
+		minas[11,i]=-2
+		minas[i,11]=-2
+	fin para
+	
+	para i<-2 hasta 10 haga
+		para n<-2 hasta 10 haga
+			minas[i,n]=0
+		fin para
+	fin para
+	llamar Inicializar_Aleatorio()
+	
+	para i <- 1 hasta 20 haga
+		num <- aleatorio() * 100
+		Escriba num
+		llamar nueva_linea()	
+	fin para
+fin

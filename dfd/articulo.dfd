@@ -1,0 +1,102 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+10
+precioBase
+1
+0
+9
+descuento
+1
+0
+11
+precioFinal
+1
+0
+6
+2
+10
+costeFinal
+1
+0
+8
+unidades
+1
+0
+4
+1
+48
+'digita el precio base del articulo a comprar: '
+5
+1
+10
+precioBase
+4
+1
+35
+'cuantas unidades desea adquirir: '
+5
+1
+8
+unidades
+7
+0
+1
+15
+unidades > 1000
+7
+0
+1
+14
+unidades > 500
+7
+0
+1
+15
+unidades  > 200
+6
+1
+11
+precioFinal
+10
+precioBase
+13
+6
+1
+11
+precioFinal
+17
+precioBase * 0.95
+13
+13
+6
+1
+12
+pprecioFinal
+16
+precioBase * 0.9
+13
+13
+6
+1
+11
+precioFinal
+17
+precioBase * 0.85
+13
+6
+1
+10
+costeFinal
+22
+unidades * precioFinal
+4
+1
+46
+'el precio final de la compra es: ',costeFinal
+1

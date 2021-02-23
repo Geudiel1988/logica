@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+1
+8
+segundos
+1
+0
+4
+1
+37
+'Digite los segundos transcurridos: '
+5
+1
+8
+segundos
+12
+1
+6
+tiempo
+1
+8
+segundos
+1
+2
+1
+6
+tiempo
+1
+8
+segundos
+0
+6
+3
+4
+hora
+22
+TRUNC(segundos / 3600)
+9
+segundos 
+24
+TRUNC(segundos mod 3600)
+7
+minutos
+21
+TRUNC(segundos  / 60)
+6
+1
+9
+segundos 
+22
+TRUNC(segundos mod 60)
+4
+1
+59
+'El tiempo en horas es: ',hora,' : ',minutos,' : ',segundos
+3

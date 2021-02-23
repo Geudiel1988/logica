@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+c
+3
+0.0
+1
+f
+3
+0.0
+4
+1
+37
+'digite la temperatura a convertir: '
+5
+1
+1
+c
+6
+1
+1
+f
+17
+(c*(9 / 5) + 32 )
+4
+1
+42
+'la temperatura a grados fareheit es: ', f
+1

@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+hora
+1
+0
+7
+salario
+1
+0
+4
+1
+41
+'ingrese el total de horas a la semana: '
+5
+1
+4
+hora
+7
+0
+1
+10
+hora <= 40
+6
+3
+9
+horaExtra
+9
+hora - 40
+4
+hora
+16
+hora - horaExtra
+7
+salario
+32
+(hora * 16 ) + ( horaExtra *20 )
+13
+6
+1
+7
+salario
+10
+hora * 16 
+13
+4
+1
+33
+'el salario a pagar es: ',salario
+1

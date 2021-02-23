@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+radio
+1
+0
+2
+pi
+4
+3.14
+4
+1
+19
+'digite el radio: '
+5
+1
+5
+radio
+6
+2
+5
+area 
+18
+4 * pi * radio ^ 2
+7
+volumen
+27
+( 4 * radio ^ 3 * pi )  / 3
+4
+1
+61
+'el area de la esfera es: ',area,' y su volumen es: ',volumen
+1

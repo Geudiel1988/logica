@@ -1,0 +1,13 @@
+entero cuestionarioA, cuestionarioB, cuestionarioC, tiempoTotal, horas, minutos
+inicio
+
+escriba "digite la cantidad de cuestionarios A: "
+lea cuestionarioA
+escriba "digite la cantidad de cuestionarios B: "
+lea cuestionarioB
+escriba "digite la cantidad de cuestionarios C: "
+lea cuestionarioC
+tiempoTotal <- (cuestionarioA * 5) + (cuestionarioB * 8) + (cuestionarioC * 6)
+escriba "se tardara en revisar los cuestionarios ", tiempototal/60,"horas y ",tiempoTotal mod 60,"minutos"
+
+fin

@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+num1
+1
+0
+4
+num2
+1
+0
+4
+1
+21
+'digita dos numeros:'
+5
+1
+10
+num1, num2
+7
+0
+1
+21
+num1 > 0 and num2 > 2
+7
+0
+1
+21
+num1 < 0 and num2 < 0
+7
+0
+1
+8
+num1 > 0
+4
+1
+42
+'solo el numero: ',num2,' es mayor a cero'
+13
+4
+1
+42
+'solo el numero: ',num1,' es mayor a cero'
+13
+13
+4
+1
+47
+num1, ' ',num2,' los dos no son mayores a cero'
+13
+13
+4
+1
+44
+num1, ' ',num2,' los dos son mayores a cero'
+13
+1

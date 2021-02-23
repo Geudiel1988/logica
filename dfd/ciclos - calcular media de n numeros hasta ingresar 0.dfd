@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+n
+1
+0
+4
+suma
+1
+0
+6
+numero
+1
+0
+4
+1
+32
+'Digite un numero de terminos: '
+5
+1
+1
+n
+8
+1
+1
+i
+1
+1
+1
+1
+1
+n
+1
+1
+1
+4
+1
+20
+'Digite un numero: '
+5
+1
+6
+numero
+7
+0
+1
+11
+numero != 0
+13
+6
+1
+4
+suma
+13
+suma + numero
+13
+10
+6
+1
+5
+media
+8
+suma / n
+4
+1
+21
+'La media es: ',media
+1

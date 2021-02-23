@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+58
+algorito para calcular la longitud y el area de un circulo
+6
+3
+4
+area
+1
+0
+5
+radio
+1
+0
+2
+pi
+4
+3.14
+6
+1
+9
+perimetro
+1
+0
+4
+1
+41
+'digite el radio del la circunferencia: '
+5
+1
+5
+radio
+6
+2
+4
+area
+14
+pi * radio ^ 2
+9
+perimetro
+14
+pi ^ 2 * radio
+4
+1
+74
+'el area de la circunferencia es: ',area, ' y su perimetro es: ',perimetro
+1

@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+7
+salario
+1
+0
+4
+1
+32
+'cuanto es tu salario inicial: '
+5
+1
+7
+salario
+6
+2
+7
+aumento
+14
+salario * 0.25
+12
+salarioFinal
+17
+salario + aumento
+4
+1
+56
+'tu salario con el aumento del 25% es de: ',salarioFinal
+1

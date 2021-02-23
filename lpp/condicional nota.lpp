@@ -1,0 +1,11 @@
+real nota
+inicio
+escriba " digite la nota obtenida en el curso: "
+lea nota
+si nota >= 60 entonces
+escriba " Aprobaste FELICIDADES!!!!!!" 
+sino
+escriba " no aprobaste la materia :( "
+fin si
+fin
+

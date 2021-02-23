@@ -1,0 +1,95 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+nota1
+1
+0
+5
+nota2
+1
+0
+6
+3
+5
+nota3
+1
+0
+5
+nota4
+1
+0
+5
+nota5
+1
+0
+4
+1
+32
+'digita la nota del parcial 1: '
+5
+1
+5
+nota1
+4
+1
+40
+'digita la segunda nota del 2 parcial: '
+5
+1
+5
+nota2
+4
+1
+32
+'digita la nota del parcial 3: '
+5
+1
+5
+nota3
+4
+1
+35
+'digita la nota del examen final: '
+5
+1
+5
+nota4
+4
+1
+36
+'digita la nota del trabajo final: '
+5
+1
+5
+nota5
+6
+3
+17
+promedioParciales
+34
+(nota1 + nota2 + nota3) / 3 * 0.55
+11
+examenFinal
+12
+nota4 * 0.30
+12
+trabajoFinal
+12
+nota5 * 0.15
+6
+1
+9
+notaFinal
+46
+promedioParciales + examenFinal + trabajoFinal
+4
+1
+45
+'la nota final del estudiante es: ',notaFinal
+1

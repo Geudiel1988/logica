@@ -1,0 +1,6 @@
+cadena [20] nombre
+inicio
+escriba "escriba su nombre: "
+lea nombre
+escriba "hola  ", nombre
+fin

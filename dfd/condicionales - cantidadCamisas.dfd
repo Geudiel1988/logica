@@ -1,0 +1,90 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+15
+cantidadCamisas
+1
+0
+12
+precioCamisa
+1
+0
+13
+precioInicial
+1
+0
+6
+2
+9
+descuento
+1
+0
+11
+precioFinal
+1
+0
+4
+1
+33
+'cuantas camisas desea comprar: '
+5
+1
+15
+cantidadCamisas
+4
+1
+32
+'cual es el precio por camisa: '
+5
+1
+12
+precioCamisa
+7
+0
+1
+20
+cantidadCamisas >= 3
+6
+3
+13
+precioInicial
+30
+cantidadCamisas * precioCamisa
+9
+descuento
+28
+( precioInicial * 10 ) / 100
+11
+precioFinal
+25
+precioInicial - descuento
+4
+1
+121
+'el precio final de la compra  con un descuento del 10% es: ',precioFinal,' y tenia un precio inicial de: ',precioInicial
+13
+6
+3
+13
+precioInicial
+30
+cantidadCamisas * precioCamisa
+9
+descuento
+20
+precioInicial * 0.20
+11
+precioFinal
+25
+precioInicial - descuento
+4
+1
+121
+'el precio final de la compra  con un descuento del 20% es: ',precioFinal,' y tenia un precio inicial de: ',precioInicial
+13
+1

@@ -1,0 +1,23 @@
+/*Sintaxis funciones
+  funcion nombre_funcion [( parámetros ) ]: tipo_de_retorno
+	[variables locales]
+  inicio
+	instrucciones
+	Retorne valor
+  fin
+*/
+
+entero numero, cuboNumero
+
+funcion cubo (entero numero): entero
+	inicio
+		cuboNumero <- numero ^ 3
+		escriba "el cubo de: ",numero," es: ",cuboNumero
+	fin
+	
+	inicio
+		escriba "digite un numero: "
+		lea numero
+		llamar nueva_linea
+		llamar cubo(numero)
+	fin

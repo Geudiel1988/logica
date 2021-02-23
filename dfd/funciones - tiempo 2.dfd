@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+1
+6
+minuto
+1
+0
+4
+1
+22
+'Digite los minutos: '
+5
+1
+6
+minuto
+12
+1
+6
+tiempo
+1
+6
+minuto
+1
+2
+1
+6
+tiempo
+1
+6
+minuto
+0
+6
+2
+4
+hora
+11
+minuto / 60
+7
+minutos
+13
+minuto mod 60
+4
+1
+17
+hora,' : ',minuto
+3

@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+num
+1
+0
+6
+digito
+1
+0
+7
+inverso
+1
+0
+4
+1
+20
+'Digita un numero: '
+5
+1
+3
+num
+9
+1
+9
+ num != 0
+6
+3
+6
+digito
+10
+num mod 10
+3
+num
+16
+trunc( num / 10)
+7
+inverso
+21
+inverso * 10 + digito
+11
+4
+1
+25
+'El inverso es: ',inverso
+1

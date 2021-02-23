@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+baseMayor
+1
+0
+9
+baseMenor
+1
+0
+6
+altura
+1
+0
+4
+1
+37
+'digita la base mayor del trapecio: '
+5
+1
+9
+baseMayor
+4
+1
+24
+'digita la base menor: '
+5
+1
+9
+baseMenor
+4
+1
+18
+'digita la altura'
+5
+1
+6
+altura
+6
+1
+4
+area
+36
+(baseMayor + baseMenor) / 2 * altura
+4
+1
+43
+'el area del trapecio es: ',area, ' metros'
+1

@@ -1,0 +1,154 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+9
+marcaMoto
+2
+''
+4
+1
+36
+'que marca de moto desea adquirir: '
+5
+1
+9
+marcaMoto
+7
+0
+1
+19
+marcaMoto = 'honda'
+7
+0
+1
+20
+marcaMoto = 'yamaha'
+7
+0
+1
+20
+marcaMoto = 'suzuki'
+6
+1
+13
+precioInicial
+1
+0
+4
+1
+29
+'digita el precio de la moto'
+5
+1
+13
+precioInicial
+6
+2
+9
+descuento
+26
+(precioInicial * 2 ) / 100
+11
+precioFinal
+25
+precioInicial - descuento
+4
+1
+69
+'el precio final de la moto marca: ',marcaMoto,' es de: ',precioFinal
+13
+6
+1
+13
+precioInicial
+1
+0
+4
+1
+31
+'digite el precio de la moto: '
+5
+1
+13
+precioInicial
+6
+2
+9
+descuento
+26
+(precioInicial * 10) / 100
+11
+precioFinal
+25
+precioInicial - descuento
+4
+1
+69
+'el precio final de la moto marca: ',marcaMoto,' es de: ',precioFinal
+13
+13
+6
+1
+13
+precioInicial
+1
+0
+4
+1
+29
+'digite el precio de la moto'
+5
+1
+13
+precioInicial
+6
+2
+9
+descuento
+25
+(precioInicial * 8) / 100
+11
+precioFinal
+25
+precioInicial - descuento
+4
+1
+69
+'el precio final de la moto marca: ',marcaMoto,' es de: ',precioFinal
+13
+13
+6
+1
+13
+precioInicial
+1
+0
+4
+1
+31
+'digite el precio de la moto: '
+5
+1
+13
+precioInicial
+6
+2
+9
+descuento
+25
+(precioInicial * 5) / 100
+11
+precioFinal
+25
+precioInicial - descuento
+4
+1
+69
+'el precio final de la moto marca: ',marcaMoto,' es de: ',precioFinal
+13
+1

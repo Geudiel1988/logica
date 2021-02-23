@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+a
+1
+0
+1
+b
+1
+0
+1
+c
+1
+0
+4
+1
+29
+'digita el valor de a, b, c,'
+5
+1
+5
+a,b,c
+6
+1
+1
+d
+16
+b ^ 2 - 4 *a * c
+7
+0
+1
+5
+d > 0
+4
+1
+25
+'no tiene soliucion real'
+13
+6
+2
+2
+x1
+30
+round((- b + sqrt(d)) / 2 * a)
+2
+x2
+30
+round((- b - sqrt(d)) / 2 * a)
+4
+1
+76
+'El resulyado para la ecuacion x1 es: ',x1,' y el resultado para x2 es: ',x2
+13
+1

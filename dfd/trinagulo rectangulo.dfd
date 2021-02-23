@@ -1,0 +1,65 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+7
+catetoA
+1
+0
+7
+catetoB
+1
+0
+2
+pi
+4
+3.14
+6
+2
+4
+area
+1
+0
+10
+hipotenusa
+1
+0
+4
+1
+32
+'digita el valor del cateto a: '
+5
+1
+7
+catetoA
+4
+1
+32
+'digite el valor del cateto b: '
+5
+1
+7
+catetoB
+6
+3
+4
+area
+23
+(catetoA * catetoB) / 2
+10
+hipotenusa
+28
+sqrt (catetoA^2 + catetoB^2)
+8
+longitud
+30
+hipotenusa + catetoA + catetoB
+4
+1
+75
+'El area del triangulo rectangulo es: ',area, ' su perimetro es: ',longitud
+1

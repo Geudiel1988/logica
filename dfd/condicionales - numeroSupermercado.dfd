@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+6
+numero
+11
+random(100)
+11
+totalCompra
+1
+0
+4
+1
+40
+'cual es el precio total de la compra: '
+5
+1
+11
+totalCompra
+7
+0
+1
+11
+numero < 74
+6
+2
+9
+descuento
+24
+(totalCompra * 20) / 100
+11
+precioFinal
+23
+totalCompra - descuento
+4
+1
+60
+'numero es: ',numero,' El total a pagar es de: ',precioFinal
+13
+6
+2
+9
+descuento
+26
+(totalCompra * 15 ) / 100 
+11
+precioFinal
+23
+totalCompra - descuento
+4
+1
+60
+'numero es: ',numero,' El total a pagar es de: ',precioFinal
+13
+1

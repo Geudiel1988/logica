@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+inver1
+1
+0
+6
+inver2
+1
+0
+6
+inver3
+1
+0
+4
+1
+31
+'digita las tres inversiones: '
+5
+1
+22
+inver1, inver2, inver3
+6
+3
+5
+total
+24
+inver1 + inver2 + inver3
+11
+porcentaje1
+24
+( inver1 * 100 ) / total
+11
+porcentaje2
+24
+( inver2 * 100 ) / total
+6
+1
+11
+porcentaje3
+24
+( inver3 * 100 ) / total
+4
+1
+202
+'el porcentaje de inversion de la primera empresa es: ',porcentaje1, '% el porcentaje de inversion de la 2 empresa es: ',porcentaje2,'% y el porcentaje de inversion de la empresa 3 es de: ',porcentaje3 
+1

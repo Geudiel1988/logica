@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+3
+5
+nota1
+1
+0
+5
+nota2
+1
+0
+5
+nota3
+1
+0
+4
+1
+35
+'Por favor digita las tres notas: '
+5
+1
+19
+nota1, nota2, nota3
+12
+1
+8
+promedio
+1
+19
+nota1, nota2, nota3
+1
+2
+1
+8
+promedio
+1
+19
+nota1, nota2, nota3
+0
+6
+1
+8
+promedio
+29
+( nota1 + nota2 + nota3 ) / 3
+7
+0
+1
+15
+promedio > 10.5
+4
+1
+42
+'mejora la nota el promedio es: ',promedio
+13
+4
+1
+42
+'APROBADO :D con un promedio de: 'promedio
+13
+3

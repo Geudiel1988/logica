@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+cantidadH
+1
+0
+9
+cantidadM
+1
+0
+5
+total
+1
+0
+4
+1
+33
+'digite la cantidad de hombres: '
+5
+1
+9
+cantidadH
+4
+1
+33
+'digite la cantidad de mujeres: '
+5
+1
+9
+cantidadM
+6
+3
+5
+total
+21
+cantidadH + cantidadM
+11
+porcentajeH
+25
+(cantidadH * 100) / total
+11
+porcentajeM
+25
+(cantidadM * 100) / total
+4
+1
+105
+'el total de porcentaje de hombres es: ',porcentajeH, '% el porcentaje de mujeres es: ',porcentajeM, ' %'
+1

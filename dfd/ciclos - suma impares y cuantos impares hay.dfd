@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+n
+1
+0
+4
+suma
+1
+0
+8
+contador
+1
+0
+6
+1
+1
+m
+1
+0
+4
+1
+28
+'Digite el numero inicial: '
+5
+1
+1
+n
+4
+1
+26
+'Digite el numero final: '
+5
+1
+1
+m
+8
+1
+1
+n
+1
+1
+1
+1
+1
+m
+1
+1
+1
+7
+0
+1
+12
+n mod 2 != 0
+13
+6
+2
+4
+suma
+8
+suma + n
+8
+contador
+12
+contador + 1
+4
+1
+17
+n,' numero impar'
+13
+10
+4
+1
+82
+'la suma de impares es: ',suma,' y hay un total de : ',contador,' numeros impares'
+1

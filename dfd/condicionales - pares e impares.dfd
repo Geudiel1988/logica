@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+num1
+1
+0
+4
+num2
+1
+0
+4
+1
+18
+'digite 2 numeros'
+5
+1
+10
+num1, num2
+7
+0
+1
+39
+(num1 MOD 2 = 0 ) AND (num2  mod 2 = 0)
+4
+1
+32
+num1, ' y ' ,num2,' son impares'
+13
+4
+1
+28
+num1,' y ',num2,' son pares'
+13
+1

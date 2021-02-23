@@ -1,0 +1,103 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+14
+operaciones(5)
+1
+0
+4
+suma
+1
+0
+5
+resta
+1
+0
+6
+2
+4
+mult
+1
+1
+3
+div
+1
+1
+8
+1
+1
+i
+1
+1
+1
+1
+1
+5
+1
+1
+1
+4
+1
+26
+'Digita el ',i,' numero: '
+5
+1
+14
+operaciones(i)
+10
+8
+1
+1
+i
+1
+1
+1
+1
+1
+5
+1
+1
+1
+6
+3
+4
+suma
+21
+suma + operaciones(i)
+5
+resta
+22
+resta - operaciones(i)
+4
+mult
+21
+mult * operaciones(i)
+6
+1
+3
+div
+20
+div / operaciones(i)
+10
+4
+1
+19
+'La suma es: ',suma
+4
+1
+21
+'La resta es: ',resta
+4
+1
+29
+'La multiplicacion es: ',mult
+4
+1
+22
+'La divicion es: ',div
+1

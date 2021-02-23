@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+12
+'ingrese n1'
+5
+1
+2
+n1
+4
+1
+12
+'ingrese n2'
+5
+1
+2
+n2
+4
+1
+12
+'ingrese n3'
+5
+1
+2
+n3
+6
+1
+14
+multiplicacion
+12
+n1 * n2 * n3
+4
+1
+55
+'el resultado de la multiplicacion es: ',multiplicacion
+1

@@ -1,0 +1,103 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+6
+compra
+1
+0
+6
+numero
+9
+random(5)
+4
+1
+32
+'digite el total de la compra: '
+5
+1
+6
+compra
+7
+0
+1
+10
+numero = 1
+7
+0
+1
+10
+numero = 2
+7
+0
+1
+10
+numero = 3
+7
+0
+1
+10
+numero = 4
+4
+1
+40
+'TU COMPRA ES GRATIS FELICIDADES!!!!!!!'
+13
+6
+2
+9
+descuento
+20
+(compra * 50 ) / 100
+6
+precio
+18
+compra - descuento
+4
+1
+80
+'bola azul, tienes un descuento del 50% y el valor total a pagar es de: ',precio
+13
+13
+6
+2
+9
+descuento
+19
+(compra * 25) / 100
+6
+precio
+18
+compra - descuento
+4
+1
+84
+'bola amarilla, tienes un descuento del 25% y el valor total a pagar es de: ',precio
+13
+13
+6
+2
+9
+descuento
+20
+(compra * 10 ) / 100
+6
+precio
+18
+compra - descuento
+4
+1
+81
+'bola verde, tienes un descuento del 10% y el valor total a pagar es de: ',precio
+13
+13
+4
+1
+93
+'bola blanca por lo tanto no tiene descuento en su compra y su valor a pagar es del: ',compra
+13
+1

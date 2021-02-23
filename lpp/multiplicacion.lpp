@@ -1,0 +1,11 @@
+entero n1, n2, n3, multiplicacion
+inicio
+escriba "digite n1: "
+lea n1
+escriba "digite n2: "
+lea n2
+escriba "digite n3: "
+lea n3
+multiplicacion <- n1 * n2 * n3
+escriba "El resultado de la multiplicacion es:", multiplicacion
+fin

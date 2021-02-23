@@ -1,0 +1,15 @@
+// valor absoluto
+
+real numero, valorAbsoluto
+
+inicio
+	escriba "digite un numero: "
+	lea numero
+	
+	si numero > 0 entonces
+		escriba "el valor absoluto es: ",numero // si el numero es positivo el mismo numero es absoluto
+	sino
+		valorAbsoluto <- numero * -1 // si es menor a cero se multiplica por -1 para pasar el numero de negativo a positivo
+		escriba "el valor absoluto de: ",numero," es: ",valorAbsoluto
+	fin si	
+fin

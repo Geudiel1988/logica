@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+edad
+1
+0
+4
+sexo
+2
+''
+6
+nombre
+2
+''
+4
+1
+20
+'digite su nombre: '
+5
+1
+6
+nombre
+4
+1
+19
+'cual es su sexo: '
+5
+1
+4
+sexo
+4
+1
+18
+'digite su edad: '
+5
+1
+4
+edad
+7
+0
+1
+33
+sexo = 'masculino' and edad >= 18
+4
+1
+44
+'no es mayor de edad y no es sexo masculino'
+13
+4
+1
+81
+'la persona: ',nombre,' es de sexo ',sexo,' y es mayor de edad con:',edad,' años'
+13
+1

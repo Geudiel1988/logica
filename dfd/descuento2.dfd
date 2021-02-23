@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+11
+precioVenta
+1
+0
+4
+1
+31
+'cual es el precio de compra: '
+5
+1
+11
+precioVenta
+6
+2
+9
+descuento
+22
+precioVenta * 15 / 100
+11
+precioFinal
+23
+precioVenta - descuento
+4
+1
+75
+'El precio final de la compra con un descuento del 15% es de: ',precioFinal
+1

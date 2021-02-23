@@ -1,0 +1,93 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+suma
+1
+0
+5
+resta
+1
+0
+5
+multi
+1
+0
+6
+3
+8
+division
+1
+0
+8
+potencia
+1
+0
+6
+modulo
+1
+0
+6
+2
+2
+n1
+1
+0
+2
+n2
+1
+0
+4
+1
+20
+'digita un numero: '
+5
+1
+2
+n1
+4
+1
+22
+'digita otro numero: '
+5
+1
+2
+n2
+6
+3
+4
+suma
+7
+n1 + n2
+5
+resta
+7
+n1 - n2
+5
+multi
+7
+n1 * n2
+6
+3
+8
+division
+7
+n1 / n2
+8
+potencia
+7
+n1 ^ n2
+6
+modulo
+9
+n1 mod n2
+4
+1
+271
+'El resultado de la suma es: ',suma, ' ,El resultado de la resta es: ', resta,' ,el resultado de la multiplicacion es: ',multi, ' ,El resultado de la division es: ',division, ' ,El resultado de la potencia es: ',potencia, ' ,El resultado del modulo o residuo es: ',modulo
+1

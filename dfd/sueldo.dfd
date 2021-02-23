@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+10
+sueldoBase
+1
+0
+5
+horas
+1
+0
+11
+sueldoFinal
+1
+0
+4
+1
+25
+'digita el sueldo base: '
+5
+1
+10
+sueldoBase
+4
+1
+30
+'digita el numero de horas:  '
+5
+1
+5
+horas
+7
+0
+1
+10
+horas > 40
+4
+1
+36
+'el salario a pagar es: ',sueldoBase
+13
+6
+1
+11
+sueldoFinal
+17
+sueldobase * 1.20
+4
+1
+43
+'el salario total a pagar es: ',sueldoFinal
+13
+1

@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+descuento
+1
+0
+10
+precioBase
+1
+0
+11
+precioFinal
+1
+0
+4
+1
+41
+'digita el precio inicial del articulo: '
+5
+1
+10
+precioBase
+4
+1
+36
+'digita el descuento del articulo: '
+5
+1
+9
+descuento
+6
+1
+11
+precioFinal
+35
+precioBase * (1 - descuento / 100 )
+4
+1
+97
+'el precio final del producto final es de: ',precioFinal,' con un descuento de: ',descuento, ' %'
+1

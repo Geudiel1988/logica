@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+mt
+1
+0
+2
+mn
+1
+0
+4
+1
+30
+'Digite las millas nauticas: '
+5
+1
+2
+mn
+6
+1
+2
+mt
+9
+mn * 1852
+4
+1
+70
+'los ',mn, ' ,millas nauticas en metros equivalen a : ',mt, ' ,metros'
+1

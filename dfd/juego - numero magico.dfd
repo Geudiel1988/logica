@@ -1,0 +1,90 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+12
+1
+5
+jugar
+0
+1
+2
+1
+5
+jugar
+0
+0
+6
+3
+6
+numero
+11
+random(100)
+7
+intento
+1
+0
+1
+x
+1
+0
+6
+1
+5
+valor
+1
+0
+4
+1
+20
+'digite un numero: '
+9
+1
+5
+x = 0
+6
+1
+7
+intento
+11
+intento + 1
+5
+1
+5
+valor
+7
+0
+1
+14
+valor = numero
+7
+0
+1
+14
+valor < numero
+4
+1
+12
+'muy grande'
+13
+4
+1
+13
+'muy pequeño'
+13
+13
+6
+1
+1
+x
+1
+1
+13
+11
+4
+1
+72
+'Perfecto acertaste... en: ',intento,' intentos y el numero es: ',numero
+3
