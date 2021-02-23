@@ -1,0 +1,2 @@
+# logica
+ejercicios de logica
